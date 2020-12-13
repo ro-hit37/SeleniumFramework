@@ -1,3 +1,7 @@
+com\flipkart\qa\ExtentReportListener\ExtentReporterNG.class
 com\flipkart\qa\pages\GoogleSearchPage.class
-com\flipkart\qa\utils\TestUtils.class
 com\flipkart\qa\base\TestBase.class
+com\flipkart\qa\pages\FlipkartPage.class
+com\flipkart\qa\pages\MyCartPage.class
+com\flipkart\qa\pages\ComparePage.class
+com\flipkart\qa\utils\TestUtils.class
