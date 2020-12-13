@@ -3,11 +3,11 @@ Project Highlight :
 
 Tools and Technologies Used :-
 
-Java                     :     Scripting Langugage
-Selenium Webdriver       :     Web Automation Tool
-Maven                    :     Build Generation   
-TestNG                   :     Unittest Library
-Extend Reports           :     For Graphical Reports
+Java                     :     Scripting Langugage ,
+Selenium Webdriver       :     Web Automation Tool ,
+Maven                    :     Build Generation ,
+TestNG                   :     Unittest Library ,
+Extend Reports           :     For Graphical Reports.
 
 
 Used POM Approch with PageFactory.
