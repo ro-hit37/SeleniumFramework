@@ -33,11 +33,11 @@ public class TestBase {
 		
 		
 		if(browserName.equals("chrome")){
-			System.setProperty("webdriver.chrome.driver", prop.getProperty("driverlocation"));	
+			System.setProperty("webdriver.chrome.driver",System.getProperty("user.dir")+"/drivers/chromedriver.exe");	
 			driver = new ChromeDriver(); 
 		}
 		else if(browserName.equals("FF")){
-			System.setProperty("webdriver.gecko.driver", "/Users/Lenovo/Downloads/geckodriver-v0.28.0-win32");	
+			System.setProperty("webdriver.gecko.driver",System.getProperty("user.dir")+"/drivers/geckodriver.exe");	
 			driver = new FirefoxDriver(); 
 		}
 		

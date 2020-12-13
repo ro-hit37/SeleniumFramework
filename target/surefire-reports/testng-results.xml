@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Flipkart Test Automation Test Suite" duration-ms="58700" started-at="2020-12-13T10:14:59Z" finished-at="2020-12-13T10:15:58Z">
+  <suite name="Flipkart Test Automation Test Suite" duration-ms="52908" started-at="2020-12-13T11:01:22Z" finished-at="2020-12-13T11:02:15Z">
     <groups>
     </groups>
-    <test name="Flipkart Test Cases" duration-ms="58700" started-at="2020-12-13T10:14:59Z" finished-at="2020-12-13T10:15:58Z">
+    <test name="Flipkart Test Cases" duration-ms="52908" started-at="2020-12-13T11:01:22Z" finished-at="2020-12-13T11:02:15Z">
       <class name="com.flipkart.qa.testcases.FlipkartTestcases">
-        <test-method status="PASS" signature="setup()[pri:0, instance:com.flipkart.qa.testcases.FlipkartTestcases@1fb3008]" name="setup" is-config="true" duration-ms="11520" started-at="2020-12-13T15:44:59Z" finished-at="2020-12-13T15:45:10Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.flipkart.qa.testcases.FlipkartTestcases@1fb3008]" name="setup" is-config="true" duration-ms="9518" started-at="2020-12-13T16:31:22Z" finished-at="2020-12-13T16:31:32Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="FlipkartCases()[pri:0, instance:com.flipkart.qa.testcases.FlipkartTestcases@1fb3008]" name="FlipkartCases" duration-ms="46156" started-at="2020-12-13T15:45:10Z" finished-at="2020-12-13T15:45:57Z">
+        <test-method status="PASS" signature="FlipkartCases()[pri:0, instance:com.flipkart.qa.testcases.FlipkartTestcases@1fb3008]" name="FlipkartCases" duration-ms="42413" started-at="2020-12-13T16:31:32Z" finished-at="2020-12-13T16:32:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- FlipkartCases -->
-        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.flipkart.qa.testcases.FlipkartTestcases@1fb3008]" name="teardown" is-config="true" duration-ms="1002" started-at="2020-12-13T15:45:57Z" finished-at="2020-12-13T15:45:58Z">
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.flipkart.qa.testcases.FlipkartTestcases@1fb3008]" name="teardown" is-config="true" duration-ms="955" started-at="2020-12-13T16:32:14Z" finished-at="2020-12-13T16:32:15Z">
           <params>
             <param index="0">
               <value>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [Flipkart Test Automation Test Suite]">
+  <listeners>
+    <listener class-name="com.flipkart.qa.ExtentReportListener.ExtentReporterNG"/>
+  </listeners>
+  <test name="Flipkart Test Cases(failed)">
+    <classes>
+      <class name="com.flipkart.qa.testcases.FlipkartTestcases">
+        <methods>
+          <include name="FlipkartCases"/>
+          <include name="teardown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.flipkart.qa.testcases.FlipkartTestcases -->
+    </classes>
+  </test> <!-- Flipkart Test Cases(failed) -->
+</suite> <!-- Failed suite [Flipkart Test Automation Test Suite] -->
